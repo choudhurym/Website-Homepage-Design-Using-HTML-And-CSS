@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="giphy.gif" alt="Computer" style="float:left;width:230px;height:450px;">
+<img src="giphy_matrix.gif" alt="Computer" style="float:right;width:300px;height:1080px;">
+<style>
+td{
+	padding: 0px;
+	border: 1px solid green;
+	margin:2px;
+}
+</style>	
+	<h1 style="color:rgb(118,70,70);text-align:center;">Muntabir Choudhury | Elizabethtown College</h1>
+	<h2 style="color:rgb(118,70,70);text-align:center;">Computer Engineering | Infomration Systems</h2>
+	<h2 style="color:rgb(118,70,70);text-align:center;">FALL Schedule 2017</h2>
+</head>
+<body style="background-image:url('max_payne.jpg');width: 1980px; height: 1080px;">
+<!--<img src="giphy.gif" alt="Computer" style="width:207px;height:120px;">-->
+<center>	
+<table style="width:80em; height:20em; border:1px;border-style:inset;border-color:green;">
+	<tr>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Fall_2017</th>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Monday</th>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Tuesday</th>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Wednesday</th>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Thursday</th>
+		<th style="font-size:1.2em;color:rgb(255,255,255);">Friday</th>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">8:00-8:30am</td>
+		<td rowspan="2" style="color:rgb(218,214,214); text-align:center;">CH 105<br>Fundamental<br>of<br>Chemistry<br>E 380</td>
+		<td></td>
+		<td rowspan="2" style="color:rgb(218,214,214);text-align:center;">CH 105<br>Fundamental<br>of<br>Chemistry<br>E 380</td>
+		<td></td>
+		<td rowspan="2" style="color:rgb(218,214,214);text-align:center;">CH 105<br>Fundamental<br>of<br>Chemistry<br>E 380</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">8:30-9:00am</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">9:00-9:30am</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">9:30-10:00am</td>
+		<td></td>
+		<td rowspan="3" style="color:rgb(218,214,214); text-align:center;">SO 101<br>Discovering Society<br>N 232</td>
+		<td></td>
+		<td rowspan="3" style="color:rgb(218,214,214);text-align:center;">SO 101<br>Discovering Society<br>N 232</td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">10:00-10:30am</td>
+		<td></td>
+		<td rowspan="2" style="color:rgb(218,214,214); text-align:center;">Work<br>International Leadership Assitant<br>OISS<br>BSC</td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">10:30-11:00am</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">11:00-11:30am</td>
+		<td></td>
+		<td rowspan="2" style="color:rgb(218,214,214); text-align:center;">Work<br>Database Assistant<br>Alpha Hall</td>
+		<td rowspan="2" style="color:rgb(218,214,214); text-align:center;">Meeting<br>International Leadership Assitant<br>OISS<br>BSC</td>
+		<td rowspan="12" style="color:rgb(218,214,214); text-align:center;">Work<br>Database Assistant<br>Alpha Hall</td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">11:30-12:00pm</td>
+	<td></td>
+	<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">12:00-12:30pm</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">12:30-1:00pm</td>
+		<td rowspan="3" style="color:rgb(218,214,214); text-align:center;">CS 310<br>Web Developement<br>HL</td>
+		<td rowspan="6" style="color:rgb(218,214,214); text-align:center;">CH 105L<br>Fundamental<br>of<br>Chemistry Lab<br>MU 108</td>
+		<td rowspan="3" style="color:rgb(218,214,214);text-align:center;">CS 310<br>Web Development<br>HL</td>
+		<td rowspan="3" style="color:rgb(218,214,214);text-align:center;">CS 310<br>Web Development<br>HL</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">1:00-1:30pm</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">1:30-2:00pm</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">2:00-2:30pm</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">2:30-3:00pm</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+	<td style="color:rgb(218,214,214);">3:00-3:30pm</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">3:30-4:00pm</td>
+		<td rowspan="3" style="color:rgb(218,214,214); text-align:center;">EGR 434<br>Green Robotics, Automation<br>&<br>Machine Intelligence<br>E 273</td>
+		<td rowspan="2" style="color:rgb(218,214,214); text-align:center;">Work<br>International Leadership Assistant<br>OISS<br>BSC</td>
+		<td rowspan="3" style="color:rgb(218,214,214);text-align:center;">EGR 434<br>Green Robotics, Automation<br>&<br>Machine Intelligence<br>E 273</td>
+		<td rowspan="3" style="color:rgb(218,214,214);text-align:center;">EGR 434<br>Green Robotics, Automation<br>&<br>Machine Intelligence<br>E 273</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">4:00-4:30pm</td>
+	</tr>
+	<tr>
+		<td style="color:rgb(218,214,214);">4:30-5:00pm</td>
+		<td></td>
+	</tr>
+</table>
+</center>
+</body>
+</html>
